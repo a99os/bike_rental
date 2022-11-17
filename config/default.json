@@ -1,0 +1,17 @@
+{
+  "port": "3001",
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "myPassword",
+  "db_port": 5432,
+  "db_name": "bike-rental",
+  "secret": "Ahbjc$&^654Hkjd",
+  "expire": "15 days",
+  "access_key": "BuAccesUchunMaxfiyKey",
+  "refresh_key": "BuRefreshKeyUchunMAxfiyKalit",
+  "access_time": "40m",
+  "refresh_time": "30d",
+  "refresh_ms": 2592000000,
+  "crypt_password": "my_ver_qiyin_pasddwordcha",
+  "iv": "1232gh89"
+}

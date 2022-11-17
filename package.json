@@ -1,0 +1,33 @@
+{
+  "name": "bike_rental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^4.0.0",
+    "@koa/router": "^12.0.0",
+    "bcrypt": "^5.1.0",
+    "config": "^3.3.8",
+    "cookie-parser": "^1.4.6",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-static": "^5.0.0",
+    "node-device-detector": "^2.0.9",
+    "otp-generator": "^4.0.0",
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
